@@ -1,0 +1,8 @@
+.container {
+    width: 35%;
+    height: 50%;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: ivory;
+}
