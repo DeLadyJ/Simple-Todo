@@ -6,3 +6,16 @@
     border-width: 2px;
     background-color: ivory;
 }
+input {
+    border: solid;
+    border-color: black;
+    background-color: whitesmoke;
+    border-radius: 5%;
+}
+button {
+    background-color: goldenrod;
+    color:brown;
+    border-radius: 5%;
+    border: solid;
+
+}
